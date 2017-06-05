@@ -1,0 +1,1 @@
+* Testing webpack 2
